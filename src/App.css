@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  padding: 5vh 50vh 5vh 5vh;
+}
+
+.App-content {
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.LandingPage {
+  background: url("images/optisteam.jpg") no-repeat center;
+  background-size: cover;
+}
+
+
+Form{
+  min-width: 400px;
+}
+
+.App-message {
+  min-height: 200px;
+}
+
+.CTAForm {
+  margin-top: 50px;
+}
