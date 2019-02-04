@@ -11,7 +11,7 @@ class LandingPage extends Component {
                 </div>
                 <div className="App-content">
                     <h1>Work. Grow. Enjoy.</h1>
-                    <p>Dynamic innovative team with endless oppertunities.</p>
+                    <p>Dynamic innovative team with endless opportunities.</p>
                     <CTAForm/>
                 </div>
             </div>
